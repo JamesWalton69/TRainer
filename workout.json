@@ -1,0 +1,7 @@
+[
+    {"name": "Incline Pushups", "reps": 10, "tension": 2, "reset": 0.4},
+    {"name": "Jump Squats", "reps": 17, "tension": 2, "reset": 0.4},
+    {"name": "Glute Bridges", "reps": 15, "tension": 3, "reset": 0.4},
+    {"name": "Superman", "reps": 11, "tension": 3.5, "reset": 0.6},
+    {"name": "Plank", "reps": 1, "tension": 45, "reset": 10}
+]
